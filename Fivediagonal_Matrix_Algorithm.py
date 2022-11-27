@@ -63,8 +63,6 @@ def Algorithm(size):
 
     #Результаты
 
-    # print("--- %s seconds ---" % (time.time() - start_time))
-
     #Проверка и результат
 
     # N=N+1
