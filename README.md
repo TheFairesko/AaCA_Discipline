@@ -1,2 +1,2 @@
 # AaAD_Discipline
-Fivediagonal matrix algorithm
+It is the realisation of Fivediagonal matrix algorithm for Algorithms and Complexity Analysis discipline
