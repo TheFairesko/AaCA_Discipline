@@ -42,6 +42,7 @@ def Algorithm(size):
     #Рекурсивный поиск коэффицинтов
 
     for i in range (2,N+1):
+        
         delta[i]=c[i]-a[i]*betta[i-1]+alpha[i]*(a[i]*alpha[i-1]-b[i])
         if (i<=N-1):
             alpha[i+1]=(d[i]+betta[i]*(a[i]*alpha[i-1]-b[i]))/delta[i]
